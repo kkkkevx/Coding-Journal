@@ -1,9 +1,11 @@
 import requests
 from datetime import datetime, timezone
 
+# Replace with your Notion API token and database ID
 notion_token = "secret_hbwVzTdYwHVM4AwWrNQaBfwSGLkxhZqagzOKJ63cjL6"
 database_id = "d8b09fc5ed2841adb8c999082f2910f3"
 
+# Headers for the Notion API request
 headers = {
     'Authorization': 'Bearer ' + notion_token,
     'accept': 'application/json',
@@ -11,6 +13,7 @@ headers = {
     'content-type': 'application/json'
 }
 
+# Function to get pages from the Notion database
 def get_page():
     url = f'https://api.notion.com/v1/databases/{database_id}/query'
 
@@ -20,12 +23,14 @@ def get_page():
     data = response.json()
     
     import json
+    # Save the response data to a JSON file
     with open("LC.json", "w", encoding="utf8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
     results = data["results"]
     return results
 
+# Function to create a new page in the Notion database
 def create_page(data: dict):
     create_url = "https://api.notion.com/v1/pages"
 
@@ -36,6 +41,7 @@ def create_page(data: dict):
     return res
 
 
+# Define values for data
 time = datetime.now().isoformat()
 question_type = "Linked List"
 lc_url = "https://leetcode.com/problems/add-two-numbers/description/"
@@ -46,12 +52,12 @@ my_expertise = "Couldn't Solve"
 title = "2. Add Two Numbers"
 remark = "easy question simple logic"
 
+# Define data to be used for creating a new page
 data = {
     "Tag": {
         "multi_select": [
             {
-            "name": question_type
-
+                "name": question_type
             }
         ]
     },
@@ -82,8 +88,8 @@ data = {
 
     "My Expertise": {
         "select": {
-                        "name": my_expertise
-                    }
+            "name": my_expertise
+        }
     },
 
     "Remark": {
@@ -107,4 +113,5 @@ data = {
     }
 }
 
+# Call the create_page function with the defined data
 create_page(data)
