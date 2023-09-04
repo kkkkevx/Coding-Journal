@@ -1,0 +1,4513 @@
+{
+    "object": "list",
+    "results": [
+        {
+            "object": "page",
+            "id": "b623525a-8c4f-4a58-97b1-b9fe3a9e6370",
+            "created_time": "2023-09-03T01:03:00.000Z",
+            "last_edited_time": "2023-09-04T06:16:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": []
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": null
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": null
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": null
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": null
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-09-03T01:03:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": []
+                }
+            },
+            "url": "https://www.notion.so/b623525a8c4f4a5897b1b9fe3a9e6370",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "e7cd437f-b863-4f77-bbfa-609e773c11c2",
+            "created_time": "2023-09-02T23:52:00.000Z",
+            "last_edited_time": "2023-09-02T23:54:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "O|{=",
+                            "name": "Linked List",
+                            "color": "default"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/copy-list-with-random-pointer/description/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "PtMJ",
+                        "name": "Medium ",
+                        "color": "yellow"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "31",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "31",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "dUrP",
+                        "name": "Couldn't Solve",
+                        "color": "purple"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "using dict to duplicate",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "using dict to duplicate",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-09-02T23:52:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "138. Copy List with Random Pointer",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "138. Copy List with Random Pointer",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/138-Copy-List-with-Random-Pointer-e7cd437fb8634f77bbfa609e773c11c2",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "ce01786c-a023-424b-8fe5-85208345c88e",
+            "created_time": "2023-08-28T22:01:00.000Z",
+            "last_edited_time": "2023-08-29T16:26:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "c}Se",
+                            "name": "Binary Search",
+                            "color": "orange"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/description/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "g_Xe",
+                        "name": "Hard",
+                        "color": "red"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "30",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "30",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "b58ffe27-e7d2-4cf6-b6ff-24b30bece3da",
+                        "name": "Solved but not best",
+                        "color": "brown"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "find k min",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "find k min",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-08-28T22:01:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "4. Median of Two Sorted Arrays",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "4. Median of Two Sorted Arrays",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/4-Median-of-Two-Sorted-Arrays-ce01786ca023424b8fe585208345c88e",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "6ab5422b-8372-44ff-ae09-7d7fcaa9673b",
+            "created_time": "2023-08-28T22:00:00.000Z",
+            "last_edited_time": "2023-08-28T22:01:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "c}Se",
+                            "name": "Binary Search",
+                            "color": "orange"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/koko-eating-bananas/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "PtMJ",
+                        "name": "Medium ",
+                        "color": "yellow"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "28",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "28",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "dUrP",
+                        "name": "Couldn't Solve",
+                        "color": "purple"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "logic",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "logic",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-08-28T22:00:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "875. Koko Eating Bananas",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "875. Koko Eating Bananas",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/875-Koko-Eating-Bananas-6ab5422b837244ffae097d7fcaa9673b",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "f119596b-4aff-44e6-8d9f-8052f2d6e9a5",
+            "created_time": "2023-08-25T16:57:00.000Z",
+            "last_edited_time": "2023-08-28T22:00:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "c}Se",
+                            "name": "Binary Search",
+                            "color": "orange"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/time-based-key-value-store/submissions/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "PtMJ",
+                        "name": "Medium ",
+                        "color": "yellow"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "29",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "29",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "dUrP",
+                        "name": "Couldn't Solve",
+                        "color": "purple"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "using list in dict.value",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "using list in dict.value",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-08-25T16:57:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "981. Time Based Key-Value Store",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "981. Time Based Key-Value Store",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/981-Time-Based-Key-Value-Store-f119596b4aff44e68d9f8052f2d6e9a5",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "9ac24ab8-0f4e-4a76-9b14-bbab83316863",
+            "created_time": "2023-08-21T22:42:00.000Z",
+            "last_edited_time": "2023-08-21T22:50:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "c}Se",
+                            "name": "Binary Search",
+                            "color": "orange"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/search-a-2d-matrix/submissions/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "PtMJ",
+                        "name": "Medium ",
+                        "color": "yellow"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "27",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "27",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "b58ffe27-e7d2-4cf6-b6ff-24b30bece3da",
+                        "name": "Solved but not best",
+                        "color": "brown"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "2D",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "2D",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-08-21T22:42:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "74. Search a 2D Matrix",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "74. Search a 2D Matrix",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/74-Search-a-2D-Matrix-9ac24ab80f4e4a769b14bbab83316863",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "a6985223-4cb9-4081-80c2-ed062f4eec6d",
+            "created_time": "2023-08-21T22:26:00.000Z",
+            "last_edited_time": "2023-08-21T22:27:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "c}Se",
+                            "name": "Binary Search",
+                            "color": "orange"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/binary-search/submissions/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "H}Lb",
+                        "name": "Easy",
+                        "color": "green"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "26",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "26",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "10b4fa56-b1e1-4425-be7e-e2f34ab1745d",
+                        "name": "best solution",
+                        "color": "default"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "usingthe formula ",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "usingthe formula ",
+                            "href": null
+                        },
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "l + (r - l) // 2",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": true,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": true,
+                                "color": "default"
+                            },
+                            "plain_text": "l + (r - l) // 2",
+                            "href": null
+                        },
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": " instead of ",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": " instead of ",
+                            "href": null
+                        },
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "(l + r) // 2",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": true,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": true,
+                                "color": "default"
+                            },
+                            "plain_text": "(l + r) // 2",
+                            "href": null
+                        },
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": ".",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": ".",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-08-21T22:26:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "704. Binary Search",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "704. Binary Search",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/704-Binary-Search-a69852234cb9408180c2ed062f4eec6d",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "5b6b6636-99e4-4472-9a83-1af1a16a125f",
+            "created_time": "2023-08-21T03:48:00.000Z",
+            "last_edited_time": "2023-08-21T03:50:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "<ky@",
+                            "name": "Stacks",
+                            "color": "pink"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/description/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "g_Xe",
+                        "name": "Hard",
+                        "color": "red"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "25",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "25",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "dUrP",
+                        "name": "Couldn't Solve",
+                        "color": "purple"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "really hard",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "really hard",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-08-21T03:48:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "84. Largest Rectangle in Histogram",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "84. Largest Rectangle in Histogram",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/84-Largest-Rectangle-in-Histogram-5b6b663699e444729a831af1a16a125f",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "86abdb3a-be4c-4e28-a836-c0c124929ce7",
+            "created_time": "2023-08-20T00:43:00.000Z",
+            "last_edited_time": "2023-08-20T00:45:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "<ky@",
+                            "name": "Stacks",
+                            "color": "pink"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/car-fleet/description/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "PtMJ",
+                        "name": "Medium ",
+                        "color": "yellow"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "24",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "24",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": null
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "dUrP",
+                        "name": "Couldn't Solve",
+                        "color": "purple"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "logic",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "logic",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-08-20T00:43:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "853. Car Fleet",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "853. Car Fleet",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/853-Car-Fleet-86abdb3abe4c4e28a836c0c124929ce7",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "72162915-c644-4c5d-843c-e1e79dc92d05",
+            "created_time": "2023-08-17T21:59:00.000Z",
+            "last_edited_time": "2023-08-20T00:43:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "<ky@",
+                            "name": "Stacks",
+                            "color": "pink"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/daily-temperatures/description/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "PtMJ",
+                        "name": "Medium ",
+                        "color": "yellow"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "23",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "23",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "dUrP",
+                        "name": "Couldn't Solve",
+                        "color": "purple"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "using stack",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "using stack",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-08-17T21:59:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "739. Daily Temperatures",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "739. Daily Temperatures",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/739-Daily-Temperatures-72162915c6444c5d843ce1e79dc92d05",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "496e314f-7cb3-4e3a-b077-e6079936f8c3",
+            "created_time": "2023-08-16T21:55:00.000Z",
+            "last_edited_time": "2023-08-20T00:43:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "<ky@",
+                            "name": "Stacks",
+                            "color": "pink"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/generate-parentheses/description/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "PtMJ",
+                        "name": "Medium ",
+                        "color": "yellow"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "22",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "22",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "dUrP",
+                        "name": "Couldn't Solve",
+                        "color": "purple"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "recursion",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "recursion",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-08-16T21:55:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "22. Generate Parentheses",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "22. Generate Parentheses",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/22-Generate-Parentheses-496e314f7cb34e3ab077e6079936f8c3",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "ebf853f7-3696-4025-a345-3f5981288c6a",
+            "created_time": "2023-08-15T22:43:00.000Z",
+            "last_edited_time": "2023-08-20T00:44:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "<ky@",
+                            "name": "Stacks",
+                            "color": "pink"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/description/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "PtMJ",
+                        "name": "Medium ",
+                        "color": "yellow"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "21",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "21",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "b58ffe27-e7d2-4cf6-b6ff-24b30bece3da",
+                        "name": "Solved but not best",
+                        "color": "brown"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "// operation always rounds down. for negative, the result will be minus 1.",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "// operation always rounds down. for negative, the result will be minus 1.",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-08-15T22:43:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "150. Evaluate Reverse Polish Notation",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "150. Evaluate Reverse Polish Notation",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/150-Evaluate-Reverse-Polish-Notation-ebf853f736964025a3453f5981288c6a",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "8f6661c1-3bb2-46ac-9dd1-3daa0b07368c",
+            "created_time": "2023-08-15T15:27:00.000Z",
+            "last_edited_time": "2023-08-20T00:44:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "<ky@",
+                            "name": "Stacks",
+                            "color": "pink"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/min-stack/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "PtMJ",
+                        "name": "Medium ",
+                        "color": "yellow"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "20",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "20",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "b58ffe27-e7d2-4cf6-b6ff-24b30bece3da",
+                        "name": "Solved but not best",
+                        "color": "brown"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "improve runtime by use more space",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "improve runtime by use more space",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-08-15T15:27:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "155. Min Stack",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "155. Min Stack",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/155-Min-Stack-8f6661c13bb246ac9dd13daa0b07368c",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "4ecd2f9a-ee50-4412-8588-75029b7ac231",
+            "created_time": "2023-08-10T21:57:00.000Z",
+            "last_edited_time": "2023-08-10T22:30:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "yIft",
+                            "name": "Arrays",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/sliding-window-maximum/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "g_Xe",
+                        "name": "Hard",
+                        "color": "red"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "19",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "19",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": null
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "dUrP",
+                        "name": "Couldn't Solve",
+                        "color": "purple"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-08-10T21:57:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "239. Sliding Window Maximum",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "239. Sliding Window Maximum",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/239-Sliding-Window-Maximum-4ecd2f9aee504412858875029b7ac231",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "4b7ab909-944f-44da-8276-28c5bb26776f",
+            "created_time": "2023-08-09T23:01:00.000Z",
+            "last_edited_time": "2023-08-09T23:02:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "yIft",
+                            "name": "Arrays",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/permutation-in-string/description/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "PtMJ",
+                        "name": "Medium ",
+                        "color": "yellow"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "18",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "18",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "dUrP",
+                        "name": "Couldn't Solve",
+                        "color": "purple"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Sliding window",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Sliding window",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-08-09T23:01:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "567. Permutation in String",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "567. Permutation in String",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/567-Permutation-in-String-4b7ab909944f44da827628c5bb26776f",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "055406c8-f36d-4fa6-a36a-13c30298f70d",
+            "created_time": "2023-08-08T16:06:00.000Z",
+            "last_edited_time": "2023-08-08T16:10:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "yIft",
+                            "name": "Arrays",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/trapping-rain-water/description/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "g_Xe",
+                        "name": "Hard",
+                        "color": "red"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "17",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "17",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "dUrP",
+                        "name": "Couldn't Solve",
+                        "color": "purple"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-08-08T16:06:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "42. Trapping Rain Water",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "42. Trapping Rain Water",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/42-Trapping-Rain-Water-055406c8f36d4fa6a36a13c30298f70d",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "b8aba47b-8537-40d2-b869-788cf27ebb3a",
+            "created_time": "2023-08-08T15:47:00.000Z",
+            "last_edited_time": "2023-08-08T15:49:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "yIft",
+                            "name": "Arrays",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "PtMJ",
+                        "name": "Medium ",
+                        "color": "yellow"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "16",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "16",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "10b4fa56-b1e1-4425-be7e-e2f34ab1745d",
+                        "name": "best solution",
+                        "color": "default"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "good",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "good",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-08-08T15:47:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "167. Two Sum II - Input Array Is Sorted",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "167. Two Sum II - Input Array Is Sorted",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/167-Two-Sum-II-Input-Array-Is-Sorted-b8aba47b853740d2b869788cf27ebb3a",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "570c40ef-3e4d-48d8-826a-19785b53429c",
+            "created_time": "2023-08-07T16:41:00.000Z",
+            "last_edited_time": "2023-08-08T15:49:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "yIft",
+                            "name": "Arrays",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/subarray-sum-equals-k/description/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "PtMJ",
+                        "name": "Medium ",
+                        "color": "yellow"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "15",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "15",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "dUrP",
+                        "name": "Couldn't Solve",
+                        "color": "purple"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "math… a-b = k    a-k = b",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "math… a-b = k    a-k = b",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-08-07T16:41:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "560. Subarray Sum Equals K",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "560. Subarray Sum Equals K",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/560-Subarray-Sum-Equals-K-570c40ef3e4d48d8826a19785b53429c",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "7ad10b65-a9b6-4f13-b302-9516b1930543",
+            "created_time": "2023-08-07T16:39:00.000Z",
+            "last_edited_time": "2023-08-08T15:49:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "yIft",
+                            "name": "Arrays",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "PtMJ",
+                        "name": "Medium ",
+                        "color": "yellow"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "14",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "14",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "b58ffe27-e7d2-4cf6-b6ff-24b30bece3da",
+                        "name": "Solved but not best",
+                        "color": "brown"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "try to summary logic then find the best solution",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "try to summary logic then find the best solution",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-08-07T16:39:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "122. Best Time to Buy and Sell Stock II",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "122. Best Time to Buy and Sell Stock II",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/122-Best-Time-to-Buy-and-Sell-Stock-II-7ad10b65a9b64f13b3029516b1930543",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "f3988a1a-cfc3-454c-8eaa-dfd6a454782f",
+            "created_time": "2023-08-06T16:29:00.000Z",
+            "last_edited_time": "2023-08-06T16:30:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "yIft",
+                            "name": "Arrays",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/brick-wall/description/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "PtMJ",
+                        "name": "Medium ",
+                        "color": "yellow"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "13",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "13",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "dUrP",
+                        "name": "Couldn't Solve",
+                        "color": "purple"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "almost there. same logic. focus more on detail",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "almost there. same logic. focus more on detail",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-08-06T16:29:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "554. Brick Wall",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "554. Brick Wall",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/554-Brick-Wall-f3988a1acfc3454c8eaadfd6a454782f",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "6f5c7361-dc4d-4e11-a45c-6b88e7230b77",
+            "created_time": "2023-08-06T16:27:00.000Z",
+            "last_edited_time": "2023-08-06T16:29:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "yIft",
+                            "name": "Arrays",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/encode-and-decode-tinyurl/description/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "PtMJ",
+                        "name": "Medium ",
+                        "color": "yellow"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "12",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "12",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "dUrP",
+                        "name": "Couldn't Solve",
+                        "color": "purple"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "dont understand question",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "dont understand question",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-08-06T16:27:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "535. Encode and Decode TinyURL",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "535. Encode and Decode TinyURL",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/535-Encode-and-Decode-TinyURL-6f5c7361dc4d4e11a45c6b88e7230b77",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "229a77cb-2edc-4e7e-acb0-91b0f08a0e78",
+            "created_time": "2023-08-03T16:37:00.000Z",
+            "last_edited_time": "2023-08-08T15:49:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "yIft",
+                            "name": "Arrays",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/sort-colors/description/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "PtMJ",
+                        "name": "Medium ",
+                        "color": "yellow"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "11",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "11",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "b58ffe27-e7d2-4cf6-b6ff-24b30bece3da",
+                        "name": "Solved but not best",
+                        "color": "brown"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "insertion sort algo",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "insertion sort algo",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-08-03T16:37:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "75. Sort Colors",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "75. Sort Colors",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/75-Sort-Colors-229a77cb2edc4e7eacb091b0f08a0e78",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "1e9d0338-ffc7-4356-a4b5-2d9e1023a84c",
+            "created_time": "2023-08-03T16:35:00.000Z",
+            "last_edited_time": "2023-08-06T16:28:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "yIft",
+                            "name": "Arrays",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/valid-sudoku/description/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "PtMJ",
+                        "name": "Medium ",
+                        "color": "yellow"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "10",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "10",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "dUrP",
+                        "name": "Couldn't Solve",
+                        "color": "purple"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "思路相似 代码写不出",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "思路相似 代码写不出",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-08-03T16:35:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "36. Valid Sudoku",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "36. Valid Sudoku",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/36-Valid-Sudoku-1e9d0338ffc74356a4b52d9e1023a84c",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "bd639975-a959-468c-b277-ef51cbf713ef",
+            "created_time": "2023-08-02T18:25:00.000Z",
+            "last_edited_time": "2023-08-02T21:19:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "yIft",
+                            "name": "Arrays",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/word-pattern/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "H}Lb",
+                        "name": "Easy",
+                        "color": "green"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "9",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "9",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "dUrP",
+                        "name": "Couldn't Solve",
+                        "color": "purple"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-08-02T18:25:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "290. Word Pattern",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "290. Word Pattern",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/290-Word-Pattern-bd639975a959468cb277ef51cbf713ef",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "dce7b677-ff8a-4dbf-997c-485e64ce2f93",
+            "created_time": "2023-08-02T03:25:00.000Z",
+            "last_edited_time": "2023-08-02T03:53:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "yIft",
+                            "name": "Arrays",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/maximum-number-of-balloons/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "H}Lb",
+                        "name": "Easy",
+                        "color": "green"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "8",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "8",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "dUrP",
+                        "name": "Couldn't Solve",
+                        "color": "purple"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-08-02T03:25:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "1189. Maximum Number of Balloons",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "1189. Maximum Number of Balloons",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/1189-Maximum-Number-of-Balloons-dce7b677ff8a4dbf997c485e64ce2f93",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "ccbc5d4b-8415-401c-90e4-a95f7cbed488",
+            "created_time": "2023-07-31T16:33:00.000Z",
+            "last_edited_time": "2023-07-31T17:03:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "yIft",
+                            "name": "Arrays",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "H}Lb",
+                        "name": "Easy",
+                        "color": "green"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "7",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "7",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "b58ffe27-e7d2-4cf6-b6ff-24b30bece3da",
+                        "name": "Solved but not best",
+                        "color": "brown"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "using \"index manipulation\" or \"marking. technique",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "using \"index manipulation\" or \"marking. technique",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-07-31T16:33:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "448. Find All Numbers Disappeared in an Array",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "448. Find All Numbers Disappeared in an Array",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/448-Find-All-Numbers-Disappeared-in-an-Array-ccbc5d4b8415401c90e4a95f7cbed488",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "1b17c3bf-d111-433f-bc6f-faa5528224a1",
+            "created_time": "2023-07-31T16:29:00.000Z",
+            "last_edited_time": "2023-07-31T16:33:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "yIft",
+                            "name": "Arrays",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/range-sum-query-immutable/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "H}Lb",
+                        "name": "Easy",
+                        "color": "green"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "6",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "6",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "b58ffe27-e7d2-4cf6-b6ff-24b30bece3da",
+                        "name": "Solved but not best",
+                        "color": "brown"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "dont repeat the same calculation ",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "dont repeat the same calculation ",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-07-31T16:29:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "303. Range Sum Query - Immutable",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "303. Range Sum Query - Immutable",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/303-Range-Sum-Query-Immutable-1b17c3bfd111433fbc6ffaa5528224a1",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "cb3193a2-18f3-418d-80ec-b1ccab0a592c",
+            "created_time": "2023-07-30T17:33:00.000Z",
+            "last_edited_time": "2023-07-30T17:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "yIft",
+                            "name": "Arrays",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/next-greater-element-i/description/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "H}Lb",
+                        "name": "Easy",
+                        "color": "green"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "5",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "5",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "dUrP",
+                        "name": "Couldn't Solve",
+                        "color": "purple"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "using stack ",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "using stack ",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-07-30T17:33:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "496. Next Greater Element I",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "496. Next Greater Element I",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/496-Next-Greater-Element-I-cb3193a218f3418d80ecb1ccab0a592c",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "167c0d34-46ce-4a07-8c54-287f64dfa241",
+            "created_time": "2023-07-30T16:10:00.000Z",
+            "last_edited_time": "2023-07-31T16:33:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "yIft",
+                            "name": "Arrays",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/find-pivot-index/editorial/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "H}Lb",
+                        "name": "Easy",
+                        "color": "green"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "4",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "4",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "b58ffe27-e7d2-4cf6-b6ff-24b30bece3da",
+                        "name": "Solved but not best",
+                        "color": "brown"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "my solution is too complex. time complex is not good",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "my solution is too complex. time complex is not good",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-07-30T16:10:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "724. Find Pivot Index",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "724. Find Pivot Index",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/724-Find-Pivot-Index-167c0d3446ce4a078c54287f64dfa241",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "35f7dacd-a8f4-48fb-9243-bb2fcbdbce62",
+            "created_time": "2023-07-28T22:25:00.000Z",
+            "last_edited_time": "2023-07-31T16:33:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "yIft",
+                            "name": "Arrays",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/majority-element/description/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "H}Lb",
+                        "name": "Easy",
+                        "color": "green"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "3",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "3",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "b58ffe27-e7d2-4cf6-b6ff-24b30bece3da",
+                        "name": "Solved but not best",
+                        "color": "brown"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Boyer-Moore Voting Algorithm",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Boyer-Moore Voting Algorithm",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-07-28T22:25:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "169. Majority Element",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": true,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "169. Majority Element",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/169-Majority-Element-35f7dacda8f448fb9243bb2fcbdbce62",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "84e747bf-fa7d-4af9-ab2e-7928c6456265",
+            "created_time": "2023-07-27T19:38:00.000Z",
+            "last_edited_time": "2023-07-27T19:41:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "yIft",
+                            "name": "Arrays",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/can-place-flowers/description/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "H}Lb",
+                        "name": "Easy",
+                        "color": "green"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "2",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "2",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "dUrP",
+                        "name": "Couldn't Solve",
+                        "color": "purple"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "greedy algo",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "greedy algo",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-07-27T19:38:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "605. Can Place Flowers",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": true,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "605. Can Place Flowers",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/605-Can-Place-Flowers-84e747bffa7d4af9ab2e7928c6456265",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "35011bf5-604f-4548-81d7-be3a1965d666",
+            "created_time": "2023-07-27T15:41:00.000Z",
+            "last_edited_time": "2023-07-27T19:39:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c42402d8-fed7-4bb9-847d-640d9a819a5e"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "d8b09fc5-ed28-41ad-b8c9-99082f2910f3"
+            },
+            "archived": false,
+            "properties": {
+                "Tag": {
+                    "id": "%3Cck%3F",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "yIft",
+                            "name": "Arrays",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Question Link": {
+                    "id": "KhfQ",
+                    "type": "url",
+                    "url": "https://leetcode.com/problems/isomorphic-strings/"
+                },
+                "Level": {
+                    "id": "N%3DI%7D",
+                    "type": "select",
+                    "select": {
+                        "id": "H}Lb",
+                        "name": "Easy",
+                        "color": "green"
+                    }
+                },
+                "S No.": {
+                    "id": "%5Blfq",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "1",
+                            "href": null
+                        }
+                    ]
+                },
+                "No. of times practiced": {
+                    "id": "bKYb",
+                    "type": "number",
+                    "number": 1
+                },
+                "My Expertise": {
+                    "id": "pA%5EY",
+                    "type": "select",
+                    "select": {
+                        "id": "dUrP",
+                        "name": "Couldn't Solve",
+                        "color": "purple"
+                    }
+                },
+                "Done": {
+                    "id": "tOw%5B",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Remark": {
+                    "id": "~%40iZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "I can not solve character mapping",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "I can not solve character mapping",
+                            "href": null
+                        }
+                    ]
+                },
+                "Date (of first attempt)": {
+                    "id": "~Zt%60",
+                    "type": "created_time",
+                    "created_time": "2023-07-27T15:41:00.000Z"
+                },
+                "Question": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "205. Isomorphic Strings",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": true,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "205. Isomorphic Strings",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/205-Isomorphic-Strings-35011bf5604f454881d7be3a1965d666",
+            "public_url": null
+        }
+    ],
+    "next_cursor": null,
+    "has_more": false,
+    "type": "page_or_database",
+    "page_or_database": {}
+}
